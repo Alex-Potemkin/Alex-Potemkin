@@ -2,14 +2,14 @@
 
 ## About Me
 
-🧑‍💻 Junior developer, 16 y.o., из Москвы, учусь в IT-лицее. 📱 Пишу pet-проекты для себя — от идеи до собранного APK в руках. Особенно нравится встраивать вещи, которые обычно требуют сервер (распознавание речи, ML-модели), прямо в приложение, чтобы всё работало офлайн.
+🧑‍💻 Junior developer, 16 y.o., based in Moscow, studying at an IT lyceum. 📱 I build pet projects for myself — from an idea all the way to a working APK. I especially like packing things that usually need a server (speech recognition, ML models) directly into the app so it all runs offline.
 
 ## What I Do
 
-- Разрабатываю Android-приложения на Capacitor (JS + нативные Java-плагины).
-- Встраиваю офлайн ML-модели в мобильные приложения (Whisper TFLite для распознавания речи, без сервера и интернета).
-- Интегрирую сторонние сервисы: Firebase (Auth/Firestore), Google Calendar API.
-- Довожу pet-проекты до собранного APK, а не бросаю на середине.
+- Build Android apps with Capacitor (JS + native Java plugins).
+- Embed offline ML models into mobile apps (Whisper TFLite for speech recognition, no server or internet required).
+- Integrate third-party services: Firebase (Auth/Firestore), Google Calendar API.
+- Take pet projects all the way to a finished APK instead of dropping them halfway.
 
 ## 💻 Tech Stack:
 
@@ -28,9 +28,9 @@
 
 ## 📌 Projects
 
-**[Load-Master-FPV](https://github.com/Alex-Potemkin/Load-Master-FPV)** — FPV Лоад Мастер.
+**[Load-Master-FPV](https://github.com/Alex-Potemkin/Load-Master-FPV)** — FPV Load Master.
 
-**Voice2Obsidian** *(приватный репозиторий)* — Android-приложение для голосовых заметок с офлайн-распознаванием речи (Whisper TFLite), автоэкспортом в Obsidian и интеграцией с Google Calendar.
+**Voice2Obsidian** *(private repo)* — Android voice-notes app with offline speech recognition (Whisper TFLite), auto-export to Obsidian, and Google Calendar integration.
 
 ## 📊 GitHub Stats:
 
