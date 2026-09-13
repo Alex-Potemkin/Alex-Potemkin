@@ -1,40 +1,39 @@
-<div align="center">
+# Hi there! 👋 I'm Lelik
 
-# Привет 👋 Я Lelik
+## About Me
 
-Разработчик pet-проектов из Москвы, учусь в IT-лицее.
-Люблю доводить идеи до работающего приложения — от идеи до APK в руках.
+🧑‍💻 Junior developer, 16 y.o., из Москвы, учусь в IT-лицее. 📱 Пишу pet-проекты для себя — от идеи до собранного APK в руках. Особенно нравится встраивать вещи, которые обычно требуют сервер (распознавание речи, ML-модели), прямо в приложение, чтобы всё работало офлайн.
 
-</div>
+## What I Do
 
----
+- Разрабатываю Android-приложения на Capacitor (JS + нативные Java-плагины).
+- Встраиваю офлайн ML-модели в мобильные приложения (Whisper TFLite для распознавания речи, без сервера и интернета).
+- Интегрирую сторонние сервисы: Firebase (Auth/Firestore), Google Calendar API.
+- Довожу pet-проекты до собранного APK, а не бросаю на середине.
 
-### 🛠 Стек
+## 💻 Tech Stack:
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-</p>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
+![Capacitor](https://img.shields.io/badge/capacitor-%23119EFF.svg?style=for-the-badge&logo=capacitor&logoColor=white)
 
-### 📌 Проекты
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-**[Load-Master-FPV](https://github.com/Alex-Potemkin/Load-Master-FPV)**
-FPV Лоад Мастер.
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
-**Voice2Obsidian** *(приватный репозиторий)*
-Android-приложение для голосовых заметок: офлайн-распознавание речи на устройстве через Whisper (TFLite, без сервера и интернета), автоматический экспорт в Obsidian, интеграция с Google Calendar и Firebase.
+## 📌 Projects
 
----
+**[Load-Master-FPV](https://github.com/Alex-Potemkin/Load-Master-FPV)** — FPV Лоад Мастер.
 
-<div align="center">
+**Voice2Obsidian** *(приватный репозиторий)* — Android-приложение для голосовых заметок с офлайн-распознаванием речи (Whisper TFLite), автоэкспортом в Obsidian и интеграцией с Google Calendar.
 
-<img src="https://github-readme-stats.vercel.app/api?username=Alex-Potemkin&show_icons=true&theme=default&hide_title=false&count_private=true" alt="GitHub stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-Potemkin&theme=default" alt="GitHub streak" height="165" />
+## 📊 GitHub Stats:
 
-</div>
+![Alex-Potemkin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-Potemkin&show_icons=true&theme=dark&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alex-Potemkin&theme=dark)
